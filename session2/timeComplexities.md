@@ -345,8 +345,3 @@ Total time complexity T(N)
 = N/2 _ logN
 = 1/2 _ N _ logN
 = O(N logN)
-
-Remaining:
-
-O(2^N)
-O(N!)
